@@ -34,7 +34,7 @@
     <Folder Include="www\static\" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="www\day2.py">
+    <Compile Include="www\app.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
